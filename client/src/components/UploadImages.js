@@ -5,8 +5,8 @@ import { v4 as uuidv4 } from "uuid";
 const AWS = require("aws-sdk");
 
 AWS.config.update({ region: "us-east-1" });
-const accessKeyId = "AKIAXK7SOWYGJXBES3CK";
-const secretAccessKey = "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";
+const accessKeyId = "";
+const secretAccessKey = "";
 AWS.config.update({
   accessKeyId,
   secretAccessKey,

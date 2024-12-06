@@ -2,8 +2,8 @@ import AWS from "aws-sdk";
 import { Downloading } from "@mui/icons-material";
 import { Typography } from "@mui/material";
 import { useEffect, useState } from "react";
-const accessKeyId = "AKIAXK7SOWYGJXBES3CK";
-const secretAccessKey = "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";
+const accessKeyId = "";
+const secretAccessKey = "";
 AWS.config.update({
   accessKeyId,
   secretAccessKey,
